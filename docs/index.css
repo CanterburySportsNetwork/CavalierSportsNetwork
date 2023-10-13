@@ -261,17 +261,17 @@ body, h1, h2, a {
     
     /* Style for the top navigation bar */
     .topNav {
-        background-color: #333;
+        background-color: #777;
         color: white;
         display: flex;
         justify-content: space-between;
         align-items: center;
         padding: 18px 17px;
-        font-size: 16px;
+        font-size: 15px;
     }
     .csn{
         color: royalblue;
-        font-size: 19px;
+        font-size: 15px;
     }
     
     .topNav a {
