@@ -416,8 +416,9 @@ table, td, th {
         background-color: #333;
         overflow: auto;
         white-space: nowrap;
-        width: 370px;
+        width: 350px;
         height: auto;
+        margin-left: 14px;
     }
     .pastHeader{
         text-align: center;
@@ -572,6 +573,9 @@ table, td, th {
     }
     .games1:hover{
         text-decoration: un;
+    }
+    .week{
+        margin-top: 1px;
     }
     .iphone{
         border: 2px solid #333;
