@@ -574,13 +574,18 @@ table, td, th {
     .games1:hover{
         text-decoration: un;
     }
+    .alert{
+        margin-top: 40px;
+        margin-left: 10px;
+    }
     .week{
         margin-top: 1px;
+        width: 50px;
     }
     .iphone{
         border: 2px solid #333;
         color: royalblue;
-        width: 200px;
+        width: 100px;
         
       }
       table {
